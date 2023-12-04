@@ -1,0 +1,8 @@
+{
+  "files.exclude": {
+    "**/.dcb": true,
+    "**/.git": true,
+    "**/.github": true,
+    "**/.vscode": true
+  }
+}
